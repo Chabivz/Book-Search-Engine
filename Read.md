@@ -14,3 +14,14 @@
 - [Questions](#questions)
 
 ## About the Project
+
+- A fully functioning Google Book API search enging built with a RESTful API.
+- Refactor it to be a GraphQL built with Apollo Server. 
+- The App is built using the MERN stack with a React front end. 
+- MongoDB database, and Node.js/Express.js server and API.
+- Deployed on Heroku with MongoDB database using MongoDB Atlas. 
+ 
+
+https://chris-a-book-search-engine.herokuapp.com/
+
+![Demo Image](./demo/demo-book-search.gif)
