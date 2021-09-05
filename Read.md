@@ -18,11 +18,9 @@
 ## About the Project
 
 - This application is designed utilizing the MERN stack with [MongoDB](https://www.mongodb.com/), [Express.js](https://expressjs.com/), [React](https://reactjs.org/) and [Node.js](https://nodejs.org/en/).
-- The [Book Search Engine]() allows a user to **Signup** or **Login** to contribute to the web developement community.
-- The **Home** page allows a user to view all available technologies, when the click the button, it will bring up all developers who have posted content relating to that technology.
-- Once a developer is chosen, they can view their **Profile** page and the developer's posted content.
-- The **Dashboard** allows the user to input a profile picture and information about themselves as well as upload content.
-- The **Donate!** section allows the user to contribute to the **Full Stack Developer Community** with a donation.
+- The [Book Search Engine]() allows a user to **Signup** or **Login** to search and view saved book on your virtual bookshelf.
+
+
 
 - The **client** folder utilizes the following technologies:
 
