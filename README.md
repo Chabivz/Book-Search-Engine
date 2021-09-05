@@ -8,10 +8,7 @@
 - [About the Project](#about-the-project)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
 - [License](#license)
-- [Questions](#questions)
 
 ## ✨ About the Project
 
